@@ -1,0 +1,10 @@
+*
+!vimrc
+!vimrc.local
+!vimrc.bundles
+!.gitignore
+!myReadme.md
+!others/
+!others/*
+!install.sh
+
