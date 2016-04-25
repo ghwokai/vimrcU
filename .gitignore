@@ -7,4 +7,5 @@
 !others/
 !others/*
 !install.sh
-
+!font/
+!font/*
